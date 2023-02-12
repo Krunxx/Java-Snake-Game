@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Karen\eclipse-workspace\Snakyy (1).zip_expanded\Snake_Game\Snake.jar</jar>
+  <outfile>C:\Users\Karen\eclipse-workspace\Snakyy (1).zip_expanded\snok.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Karen\eclipse-workspace\Snakyy (1).zip_expanded\Snake_Game\weirdSnake12.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.18.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
